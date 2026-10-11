@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 628" width="640" height="628" role="img" aria-labelledby="title desc">
+  <title id="title">The fan participation loop</title>
+  <desc id="desc">The five stages, in order: Anticipation, Prediction, Commitment, Reaction, Reputation.</desc>
+  <rect width="640" height="628" fill="#f5f5f1"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif">
+    <text x="32" y="43" font-size="16" fill="#5c5c57" font-weight="500" text-anchor="start" letter-spacing="1.4">THE FAN PARTICIPATION LOOP</text>
+    <rect x="32" y="80" width="576" height="84" fill="#fdfdfb" stroke="#c9c9c2"/>
+    <text x="54" y="129" font-size="17" fill="#73736d" font-weight="500" text-anchor="start">01</text>
+    <text x="98" y="133" font-size="31" fill="#171717" font-weight="500" text-anchor="start">Anticipation</text>
+    <path d="M320 167 V183 M315 178 L320 183 L325 178" stroke="#73736d" stroke-width="1.5" fill="none"/>
+    <rect x="32" y="188" width="576" height="84" fill="#fdfdfb" stroke="#c9c9c2"/>
+    <text x="54" y="237" font-size="17" fill="#73736d" font-weight="500" text-anchor="start">02</text>
+    <text x="98" y="241" font-size="31" fill="#171717" font-weight="500" text-anchor="start">Prediction</text>
+    <path d="M320 275 V291 M315 286 L320 291 L325 286" stroke="#73736d" stroke-width="1.5" fill="none"/>
+    <rect x="32" y="296" width="576" height="84" fill="#fdfdfb" stroke="#c9c9c2"/>
+    <text x="54" y="345" font-size="17" fill="#73736d" font-weight="500" text-anchor="start">03</text>
+    <text x="98" y="349" font-size="31" fill="#171717" font-weight="500" text-anchor="start">Commitment</text>
+    <path d="M320 383 V399 M315 394 L320 399 L325 394" stroke="#73736d" stroke-width="1.5" fill="none"/>
+    <rect x="32" y="404" width="576" height="84" fill="#fdfdfb" stroke="#c9c9c2"/>
+    <text x="54" y="453" font-size="17" fill="#73736d" font-weight="500" text-anchor="start">04</text>
+    <text x="98" y="457" font-size="31" fill="#171717" font-weight="500" text-anchor="start">Reaction</text>
+    <path d="M320 491 V507 M315 502 L320 507 L325 502" stroke="#73736d" stroke-width="1.5" fill="none"/>
+    <rect x="32" y="512" width="576" height="84" fill="#171717" stroke="#171717"/>
+    <text x="54" y="561" font-size="17" fill="#b7b7b1" font-weight="500" text-anchor="start">05</text>
+    <text x="98" y="565" font-size="31" fill="#f5f5f0" font-weight="500" text-anchor="start">Reputation</text>
+  </g>
+</svg>

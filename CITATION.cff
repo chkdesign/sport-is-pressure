@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "Please cite the paper using the citation below."
+title: "Sport Is Pressure: The Participation Layer of Live Sports"
+authors:
+  - family-names: Plop
+    given-names: Cristian
+url: "https://github.com/chkdesign/sport-is-pressure"
+preferred-citation:
+  type: report
+  title: "Sport Is Pressure: The Participation Layer of Live Sports"
+  authors:
+    - family-names: Plop
+      given-names: Cristian
+  year: 2026
+  publisher:
+    name: Pulse Research
+  url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6393138"
