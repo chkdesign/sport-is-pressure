@@ -7,15 +7,23 @@ Cristian Plop · Pulse Research · 2026
 [Read the full paper →](paper/sport-is-pressure.pdf)  
 [Published on SSRN →](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6393138)
 
+![Pulse research cover: The Participation Layer of Live Sports.](assets/sport-is-pressure-cover.jpg)
+
 Live sports are defined by anticipation. Fans interpret what is happening, predict what comes next, debate decisions, and react in real time. Yet most sports products treat them primarily as spectators.
 
 This paper proposes **the participation layer**: a system that turns the prediction instinct fans already have into structured, social, and persistent participation during live sport.
 
-![The core equation: Sport equals pressure; pressure equals anticipation; anticipation equals prediction; prediction equals the participation layer.](assets/pressure-to-participation.svg)
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/pressure-to-participation-mobile.svg">
+  <img src="assets/pressure-to-participation.svg" width="100%" alt="The core equation: Sport equals pressure; pressure equals anticipation; anticipation equals prediction; prediction equals the participation layer.">
+</picture>
 
 ## The fan participation loop
 
-![Five stages in the paper’s fan participation loop: Anticipation, Prediction, Commitment, Reaction, Reputation.](assets/participation-loop.svg)
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/participation-loop-mobile.svg">
+  <img src="assets/participation-loop.svg" width="100%" alt="The fan participation loop: Anticipation, Prediction, Commitment, Reaction, Reputation, returning to Anticipation.">
+</picture>
 
 Anticipation becomes a specific prediction. Stating that prediction makes it a commitment. The match resolves the uncertainty; the fan reacts to being right or wrong. When outcomes are recorded and visible to others, they contribute to reputation.
 
@@ -44,7 +52,13 @@ In the proposed system, the AI interpretation layer reads that context and deter
 
 The stack brings together live structured match data, contextual interpretation, and mobile interaction during the match. Recording fan decisions and their outcomes over time creates a persistent record of how a fan reads the game: a basis for identity, reputation, and competition across matches.
 
-> The next generation of sports products will not simply show the game. They will allow fans to participate in it.
+---
+
+> **The next generation of sports products will not simply show the game.**
+>
+> **They will allow fans to participate in it.**
+
+---
 
 ## Citation
 

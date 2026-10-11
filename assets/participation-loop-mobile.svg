@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 530" width="680" height="530" role="img" aria-labelledby="title desc">
+  <title id="title">The fan participation loop</title>
+  <desc id="desc">The five stages in order: Anticipation, Prediction, Commitment, Reaction, Reputation. A return path connects Reputation back to Anticipation.</desc>
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .ink { fill: #24292f; }
+    .muted { fill: #656d76; }
+    .rule { stroke: #afb8c1; fill: none; }
+    .frame { stroke: #d0d7de; fill: none; }
+    .arrow { fill: #656d76; }
+    @media (prefers-color-scheme: dark) {
+      .ink { fill: #e6edf3; }
+      .muted { fill: #9da7b3; }
+      .rule { stroke: #6e7681; }
+      .frame { stroke: #3d444d; }
+      .arrow { fill: #9da7b3; }
+    }
+  </style>
+  <defs><marker id="arrow" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M1 1 L7 4 L1 7 Z" class="arrow"/></marker></defs>
+  <text x="340" y="54" font-size="20" class="muted" font-weight="500" text-anchor="middle">01</text>
+  <text x="340" y="92" font-size="34" class="ink" font-weight="600" text-anchor="middle">Anticipation</text>
+  <text x="574" y="199" font-size="20" class="muted" font-weight="500" text-anchor="middle">02</text>
+  <text x="574" y="237" font-size="34" class="ink" font-weight="600" text-anchor="middle">Prediction</text>
+  <text x="484" y="411" font-size="20" class="muted" font-weight="500" text-anchor="middle">03</text>
+  <text x="484" y="449" font-size="34" class="ink" font-weight="600" text-anchor="middle">Commitment</text>
+  <text x="196" y="411" font-size="20" class="muted" font-weight="500" text-anchor="middle">04</text>
+  <text x="196" y="449" font-size="34" class="ink" font-weight="600" text-anchor="middle">Reaction</text>
+  <text x="106" y="199" font-size="20" class="muted" font-weight="500" text-anchor="middle">05</text>
+  <text x="106" y="237" font-size="34" class="ink" font-weight="600" text-anchor="middle">Reputation</text>
+  <path d="M445 94 Q538 103 560 179" class="rule" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+  <path d="M590 268 Q624 357 535 409" class="rule" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+  <path d="M378 437 H288" class="rule" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+  <path d="M145 409 Q55 357 86 268" class="rule" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+  <path d="M120 179 Q142 103 235 94" class="rule" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+</svg>
