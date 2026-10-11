@@ -60,6 +60,16 @@ The stack brings together live structured match data, contextual interpretation,
 
 ---
 
+## Published in Sports Business Journal
+
+**The Next Wave of Fan Engagement Is Participation**
+
+May 8, 2026
+
+An industry perspective on why the next generation of sports products should move beyond passive viewing toward structured fan participation.
+
+[Read the essay on SBJ →](https://www.sportsbusinessjournal.com/Articles/2026/05/08/the-next-wave-of-fan-engagement-is-participation/)
+
 ## Citation
 
 Plop, Cristian. “Sport Is Pressure: The Participation Layer of Live Sports.” Pulse Research, 2026.
